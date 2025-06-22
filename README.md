@@ -4,6 +4,12 @@
 <p align="center">
     <h1 align="center">UEvent Backend</h1>
 </p>
+
+<p align="center">
+  <a href="https://uevent.mkloz.com">🌐 Website</a> |
+  <a href="https://api.mkloz.com/uevent/api/docs">🛠️ API Docs</a> |
+  <a href="https://github.com/mkloz/uevent-frontend">💻 Frontend Code</a>
+</p>
 <p align="center">
     <em>Event Sharing Platform API</em>
 </p>
@@ -94,13 +100,13 @@ The database schema is defined using Prisma and includes the following main enti
 1. Clone the UEvent Backend repository:
 
 ```sh
-git clone https://github.com/maxkrv/uevent-be.git
+git clone https://github.com/mkloz/uevent-backend.git
 ```
 
 2. Change to the project directory:
 
 ```shellscript
-cd uevent-be
+cd uevent-backend
 ```
 
 3. Install the dependencies:
@@ -219,7 +225,7 @@ Contributions are welcome! Here are several ways you can contribute:
 2. **Clone Locally**: Clone the forked repository to your local machine using a Git client.
 
 ```shellscript
-git clone https://github.com/maxkrv/uevent-be
+git clone https://github.com/mkloz/uevent-backend
 ```
 
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
@@ -251,4 +257,4 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/maxkrv/uevent-be/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mkloz/uevent-backend/blob/main/LICENSE) file for details.
